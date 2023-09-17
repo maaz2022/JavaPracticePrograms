@@ -1,0 +1,14 @@
+Java Functions:
+------------------------------------------------
+indexOf ---> Find Index of substrings
+
+    String index="hello Maaz";
+    System.out.println(index.indexOf("Maaz"));
+    Output = 6
+------------------------------------------------
+substring ---> Extract part of original string
+
+   String originalString ="hello Maaz";
+   String substring1 = originalString.substring(6);
+   Output = Maaz
+------------------------------------------------
