@@ -12,3 +12,8 @@ substring ---> Extract part of original string
    String substring1 = originalString.substring(6);
    Output = Maaz
 ------------------------------------------------
+Contains ---> Check whether string contain a sequence of char.
+String str = "Maaz";
+System.out.println(str.contains("Maaz"));
+output = True
+------------------------------------------------
